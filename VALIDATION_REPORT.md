@@ -1,0 +1,88 @@
+# Validation Report - clothing-wash-care-guide
+
+Generated: 2026-06-04T11:36:33.719985
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Clothing Wash Care Guide
+- ✓ Article word count OK: Beginner Clothing Wash Care Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Clothing Wash Care Guide
+- ✓ Article word count OK: Beginner Clothing Wash Care Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Clothing Wash Care Guide
+- ✓ Article word count OK: Beginner Clothing Wash Care Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Clothing Wash Care Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Clothing Wash Care Guide
+- ✓ Article word count OK: Beginner Clothing Wash Care Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Clothing Wash Care Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Clothing Wash Care Guide
+- ✓ Article word count OK: Advanced Clothing Wash Care Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Clothing Wash Care Guide
+- ✓ Article word count OK: Advanced Clothing Wash Care Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Clothing Wash Care Guide
+- ✓ Article word count OK: Advanced Clothing Wash Care Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Clothing Wash Care Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Clothing Wash Care Guide
+- ✓ Article word count OK: Advanced Clothing Wash Care Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Clothing Wash Care Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Clothing Wash Care Guide Tips
+- ✓ Article word count OK: Clothing Wash Care Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Clothing Wash Care Guide Tips
+- ✓ Article word count OK: Clothing Wash Care Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Clothing Wash Care Guide Tips
+- ✓ Article word count OK: Clothing Wash Care Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Clothing Wash Care Guide Tips
+- ✓ Article word count OK: Common Mistakes in Clothing Wash Care Guide Tips
+- ✓ Article word count OK: Clothing Wash Care Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Clothing Wash Care Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Clothing Wash Care Guide History
+- ✓ Article word count OK: Clothing Wash Care Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Clothing Wash Care Guide History
+- ✓ Article word count OK: Clothing Wash Care Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Clothing Wash Care Guide History
+- ✓ Article word count OK: Clothing Wash Care Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Clothing Wash Care Guide History
+- ✓ Article word count OK: Common Mistakes in Clothing Wash Care Guide History
+- ✓ Article word count OK: Clothing Wash Care Guide History for Beginners
+- ✓ Article word count OK: Advanced Clothing Wash Care Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Clothing Wash Care Guide
+- ✓ Article word count OK: Trending Clothing Wash Care Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Clothing Wash Care Guide
+- ✓ Article word count OK: Trending Clothing Wash Care Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Clothing Wash Care Guide
+- ✓ Article word count OK: Trending Clothing Wash Care Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Clothing Wash Care Guide
+- ✓ Article word count OK: Common Mistakes in Trending Clothing Wash Care Guide
+- ✓ Article word count OK: Trending Clothing Wash Care Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Clothing Wash Care Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Clothing Wash Care Guide Tutorials
+- ✓ Article word count OK: Clothing Wash Care Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Clothing Wash Care Guide Tutorials
+- ✓ Article word count OK: Clothing Wash Care Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Clothing Wash Care Guide Tutorials
+- ✓ Article word count OK: Clothing Wash Care Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Clothing Wash Care Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Clothing Wash Care Guide Tutorials
+- ✓ Article word count OK: Clothing Wash Care Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Clothing Wash Care Guide Tutorials Techniques
+- ✓ Ad configuration validated
